@@ -1,5 +1,5 @@
 import preprocess
-from utils import img_to_encodings,load_images_to_encodings,selecting_alg_model
+from pyfacy.utils import img_to_encodings,load_images_to_encodings,selecting_alg_model
 import random
 import pickle
 import os
