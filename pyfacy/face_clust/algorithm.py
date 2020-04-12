@@ -1,4 +1,4 @@
-from utils import load_images_to_clust_encodings,save_faces,selecting_clust_alg_model
+from pyfacy.utils import load_images_to_clust_encodings,save_faces,selecting_clust_alg_model
 import os
 
 class Face_Clust_Algorithm():
