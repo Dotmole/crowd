@@ -14,20 +14,20 @@ requirements = [
 
 
 setuptools.setup(
-    name="pyfacy",
-    version="1.0.1",
-    author="Manivannan",
-    author_email="manivannanmca2012@gmail.com",
-    description="Face Recognition with Machine Learning and Face Clustering",
+    name="crowd",
+    version="0.1",
+    author="Shravankumar Shetty",
+    author_email="socialmedia@dotmole.co",
+    description="Face Clustering with Deep Learning",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/ManivannanMurugavel/pyfacy",
+    url="https://github.com/Dotmole/crowd",
     packages=[
-        'pyfacy',
+        'crowd',
     ],
-    package_dir={'pyfacy': 'pyfacy'},
+    package_dir={'crowd': 'crowd'},
     package_data={
-        'pyfacy': ['face_recog/*.py','face_clust/*.py']
+        'crowd': ['face_clust/*.py']
     },
     install_requires=requirements,
     license="MIT license",
