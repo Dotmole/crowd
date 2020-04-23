@@ -1,4 +1,5 @@
-# Image Clustering package
+# Crowd 
+(Image Clustering package)
 
 (Note: Currently working on bettering Image clustering and creating a pypi package for quick installation)
 
