@@ -1,5 +1,5 @@
 # Crowd 
-(Image Clustering package)
+(Image Clustering package | Contact [Shravan Shetty](https://www.linkedin.com/in/shettyshravankumar/) for any queries)
 
 (Note: Currently working on bettering Image clustering and creating a pypi package for quick installation)
 
